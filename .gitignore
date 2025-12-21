@@ -1,46 +1,28 @@
-# Python
-*.pyc
-__pycache__/
-*.pyo
-*.pyd
-.Python
-env/
+# Raw extracted frames
+frames_raw/
+
+# Annotation tools
+labelImg/
+
+
+
+
+
+# Virtual environment
 venv/
-ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset & generated files
+dataset/
+videos/
+runs/
+
+# Environment variables
 .env
-# VS Code
-.vscode/
 
-# Environment
-susenv
-
-# Django
-*.sqlite3
-db.sqlite3
-media/
-output.mp4
-
-# PyCharm
-.idea/
-
-# OS
+# OS files
 .DS_Store
 Thumbs.db
-
-# Logs
-*.log
-
-# Backup
-*.bak
-*.swp
-
-# Test outputs
-test_videos/
-
-
-*.mp4
-output*
-
-*.sql
-
-Project Structure.txt
