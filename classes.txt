@@ -4,4 +4,3 @@ head_turn
 looking_down
 leaning_to_cheat
 suspicious_hand_movement
-normal
